@@ -7,6 +7,7 @@
         "waterway/river",
         "waterway/canal",
         "waterway/ditch",
+        "waterway/canal/acequia",
         "natural/water/stream",
         "natural/water/river",
         "natural/water/canal"
